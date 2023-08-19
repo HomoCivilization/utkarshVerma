@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Kanit:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Kanit:wght@200&family=Oswald:wght@200&display=swap');
-
-
-
 *{
-
-
-
     margin: 0;
     padding: 0;
     font-family: 'Kanit', sans-serif;
@@ -20,9 +14,6 @@ h1{
     padding: 30px;
     text-align: center;
     box-shadow: -1px -1px 15px ;
-    
-    /* font-family: 'Oswald', sans-serif; */
-    
 }
 body{
     width: 100vw;
@@ -50,8 +41,6 @@ input{
     font-size: 20px;
     text-align: end;
     cursor: pointer;
-    
-
 }
 input::placeholder{
     color: black;
