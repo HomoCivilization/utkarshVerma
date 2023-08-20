@@ -44,7 +44,7 @@ input{
 }
 input::placeholder{
     color: black;
-    font-weight: 50px;
+    font-weight: bold;
 }
 button{
 border: none;
